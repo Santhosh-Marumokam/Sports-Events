@@ -1,7 +1,7 @@
 # SportsEvent
 A simple web page of college's sports event displaying the events with rules and regulations.
 
-View page @ https://prathyusha221.github.io/SportsEvent/GC/index.html
+View page @ https://santhosh-marumokam.github.io/Sports-Events/
 
 
 Screenshots:
